@@ -1,0 +1,100 @@
+=> [[32m#<Review:0x0000561ba87db7b0[0m
+  id: [1;34m1[0m,
+  rating: [1;34m0[0m,
+  content:
+   [31m[1;31m"[0m[31mStaff was very accommodating but the chef were no nonsense. The ambiance is clean and tranquil which is perfect if youre looking to have a conversation with a date or a friend.[1;31m"[0m[31m[0m,
+  restaurant_id: [1;34m21[0m,
+  created_at:
+   [1;34;4mWed[0m, [1;34m24[0m [1;34;4mNov[0m [1;34m2021[0m [1;34m03[0m:[1;34m18[0m:[1;35m40.385556000[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at:
+   [1;34;4mWed[0m, [1;34m24[0m [1;34;4mNov[0m [1;34m2021[0m [1;34m03[0m:[1;34m18[0m:[1;35m40.385556000[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Review:0x0000561ba86c3698[0m
+  id: [1;34m2[0m,
+  rating: [1;34m0[0m,
+  content:
+   [31m[1;31m"[0m[31mThis particular location like the many other restaurants down the block has ample seating and a second floor.[1;31m"[0m[31m[0m,
+  restaurant_id: [1;34m21[0m,
+  created_at:
+   [1;34;4mWed[0m, [1;34m24[0m [1;34;4mNov[0m [1;34m2021[0m [1;34m03[0m:[1;34m18[0m:[1;35m40.395371000[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at:
+   [1;34;4mWed[0m, [1;34m24[0m [1;34;4mNov[0m [1;34m2021[0m [1;34m03[0m:[1;34m18[0m:[1;35m40.395371000[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Review:0x0000561ba86c34e0[0m
+  id: [1;34m3[0m,
+  rating: [1;34m5[0m,
+  content:
+   [31m[1;31m"[0m[31mBrand new. Great design. Odd to hear pop music in a Mexican establishment. Music is a bit loud. It should be background.[1;31m"[0m[31m[0m,
+  restaurant_id: [1;34m21[0m,
+  created_at:
+   [1;34;4mWed[0m, [1;34m24[0m [1;34;4mNov[0m [1;34m2021[0m [1;34m03[0m:[1;34m18[0m:[1;35m40.403026000[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at:
+   [1;34;4mWed[0m, [1;34m24[0m [1;34;4mNov[0m [1;34m2021[0m [1;34m03[0m:[1;34m18[0m:[1;35m40.403026000[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Review:0x0000561ba86c32d8[0m
+  id: [1;34m4[0m,
+  rating: [1;34m2[0m,
+  content:
+   [31m[1;31m"[0m[31mIn terms of omakase, they had a few options but the one we chose was the 87 dollar version which include sashimi and sushi.[1;31m"[0m[31m[0m,
+  restaurant_id: [1;34m21[0m,
+  created_at:
+   [1;34;4mWed[0m, [1;34m24[0m [1;34;4mNov[0m [1;34m2021[0m [1;34m03[0m:[1;34m18[0m:[1;35m40.412884000[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at:
+   [1;34;4mWed[0m, [1;34m24[0m [1;34;4mNov[0m [1;34m2021[0m [1;34m03[0m:[1;34m18[0m:[1;35m40.412884000[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Review:0x0000561ba86c3148[0m
+  id: [1;34m5[0m,
+  rating: [1;34m3[0m,
+  content:
+   [31m[1;31m"[0m[31mThe chicken nachos were delicious and the atmosphere was great. The frozen margaritas were a little on the weak side. Would probably return for a work happy hour but was pretty disappointed about the lack of free tequila and beer we read about![1;31m"[0m[31m[0m,
+  restaurant_id: [1;34m21[0m,
+  created_at:
+   [1;34;4mWed[0m, [1;34m24[0m [1;34;4mNov[0m [1;34m2021[0m [1;34m03[0m:[1;34m18[0m:[1;35m40.422433000[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at:
+   [1;34;4mWed[0m, [1;34m24[0m [1;34;4mNov[0m [1;34m2021[0m [1;34m03[0m:[1;34m18[0m:[1;35m40.422433000[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Review:0x0000561ba86c2f90[0m
+  id: [1;34m6[0m,
+  rating: [1;34m0[0m,
+  content:
+   [31m[1;31m"[0m[31mAmbience was good, service was no nonsense but friendly.[1;31m"[0m[31m[0m,
+  restaurant_id: [1;34m21[0m,
+  created_at:
+   [1;34;4mWed[0m, [1;34m24[0m [1;34;4mNov[0m [1;34m2021[0m [1;34m03[0m:[1;34m18[0m:[1;35m40.431392000[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at:
+   [1;34;4mWed[0m, [1;34m24[0m [1;34;4mNov[0m [1;34m2021[0m [1;34m03[0m:[1;34m18[0m:[1;35m40.431392000[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Review:0x0000561ba86c2e28[0m
+  id: [1;34m7[0m,
+  rating: [1;34m2[0m,
+  content:
+   [31m[1;31m"[0m[31mOverall, the evening was a smash and I am so glad there is a new location closer to my office!![1;31m"[0m[31m[0m,
+  restaurant_id: [1;34m21[0m,
+  created_at:
+   [1;34;4mWed[0m, [1;34m24[0m [1;34;4mNov[0m [1;34m2021[0m [1;34m03[0m:[1;34m18[0m:[1;35m40.440261000[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at:
+   [1;34;4mWed[0m, [1;34m24[0m [1;34;4mNov[0m [1;34m2021[0m [1;34m03[0m:[1;34m18[0m:[1;35m40.440261000[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Review:0x0000561ba86c2c70[0m
+  id: [1;34m8[0m,
+  rating: [1;34m1[0m,
+  content:
+   [31m[1;31m"[0m[31mStaff was very accommodating but the chef were no nonsense. The ambiance is clean and tranquil which is perfect if youre looking to have a conversation with a date or a friend.[1;31m"[0m[31m[0m,
+  restaurant_id: [1;34m21[0m,
+  created_at:
+   [1;34;4mWed[0m, [1;34m24[0m [1;34;4mNov[0m [1;34m2021[0m [1;34m03[0m:[1;34m18[0m:[1;35m40.449797000[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at:
+   [1;34;4mWed[0m, [1;34m24[0m [1;34;4mNov[0m [1;34m2021[0m [1;34m03[0m:[1;34m18[0m:[1;35m40.449797000[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Review:0x0000561ba86c2a68[0m
+  id: [1;34m9[0m,
+  rating: [1;34m1[0m,
+  content:
+   [31m[1;31m"[0m[31mFor dessert, we ordered the chocolate drizzled churros and they were delicious too! They even came with some fresh fruit (blueberries and strawberries).[1;31m"[0m[31m[0m,
+  restaurant_id: [1;34m21[0m,
+  created_at:
+   [1;34;4mWed[0m, [1;34m24[0m [1;34;4mNov[0m [1;34m2021[0m [1;34m03[0m:[1;34m18[0m:[1;35m40.459972000[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at:
+   [1;34;4mWed[0m, [1;34m24[0m [1;34;4mNov[0m [1;34m2021[0m [1;34m03[0m:[1;34m18[0m:[1;35m40.459972000[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Review:0x0000561ba86c28b0[0m
+  id: [1;34m10[0m,
+  rating: [1;34m5[0m,
+  content:
+   [31m[1;31m"[0m[31mFish was high quality but portions were small. $57 for 9 pieces and a hand roll which is fair but on the expensive side.[1;31m"[0m[31m[0m,
+  restaurant_id: [1;34m21[0m,
+  created_at:
+   [1;34;4mWed[0m, [1;34m24[0m [1;34;4mNov[0m [1;34m2021[0m [1;34m03[0m:[1;34m18[0m:[1;35m40.470288000[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at:
+   [1;34;4mWed[0m, [1;34m24[0m [1;34;4mNov[0m [1;34m2021[0m [1;34m03[0m:[1;34m18[0m:[1;35m40.470288000[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m]
